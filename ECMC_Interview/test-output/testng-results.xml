@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-16T13:49:54 CDT" name="Default suite" finished-at="2024-07-16T13:50:07 CDT" duration-ms="13062">
+    <groups>
+    </groups>
+    <test started-at="2024-07-16T13:49:54 CDT" name="Default test" finished-at="2024-07-16T13:50:07 CDT" duration-ms="13062">
+      <class name="TestCases">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:TestCases@2f7298b]" started-at="2024-07-16T13:49:54 CDT" name="setUpTest" finished-at="2024-07-16T13:49:55 CDT" duration-ms="1185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="Test_ErrorForm()[pri:0, instance:TestCases@2f7298b]" started-at="2024-07-16T13:49:55 CDT" name="Test_ErrorForm" finished-at="2024-07-16T13:49:56 CDT" duration-ms="595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_ErrorForm -->
+        <test-method signature="Test_FillFormHappyPath()[pri:0, instance:TestCases@2f7298b]" started-at="2024-07-16T13:49:56 CDT" name="Test_FillFormHappyPath" finished-at="2024-07-16T13:49:59 CDT" duration-ms="3536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_FillFormHappyPath -->
+        <test-method signature="Test_WaitingButton()[pri:0, instance:TestCases@2f7298b]" started-at="2024-07-16T13:49:59 CDT" name="Test_WaitingButton" finished-at="2024-07-16T13:50:04 CDT" duration-ms="4938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_WaitingButton -->
+        <test-method signature="Test_WaitingButtonAccorion()[pri:0, instance:TestCases@2f7298b]" started-at="2024-07-16T13:50:04 CDT" name="Test_WaitingButtonAccorion" finished-at="2024-07-16T13:50:07 CDT" duration-ms="2685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_WaitingButtonAccorion -->
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:TestCases@2f7298b]" started-at="2024-07-16T13:50:07 CDT" name="tearDownTest" finished-at="2024-07-16T13:50:07 CDT" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownTest -->
+      </class> <!-- TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
